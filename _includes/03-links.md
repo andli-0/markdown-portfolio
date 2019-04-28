@@ -1,1 +1,1 @@
-Replace this with a link to your a GitHub or social media profile.
+[cybrary](https://app.cybrary.it/browse/course/intro-to-infosec)
